@@ -1,0 +1,6 @@
+*.gif
+data
+.DS_Store
+__pycache__
+
+probas_*.npy
